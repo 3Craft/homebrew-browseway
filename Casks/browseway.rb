@@ -6,8 +6,8 @@
 # Or use: make cask-sha
 
 cask "browseway" do
-  version "1.3.2"
-  sha256 "PLACEHOLDER" # Run `make cask-sha` or `shasum -a 256 Browseway.dmg` after building
+  version "1.3.4"
+  sha256 "6d88282b0bb26cb5681a53e59f3f128d97cffae05b141482efb785a0eba68412"
 
   url "https://github.com/3Craft/browseway.app/releases/download/v#{version}/Browseway.dmg"
   name "Browseway"
